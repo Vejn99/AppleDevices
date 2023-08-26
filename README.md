@@ -38,10 +38,10 @@ Git installed on your machine to clone the repository.
 
 #### Installation
 1. Clone the repository to your local machine using the following command:
-![image](https://github.com/Vejn99/AppleDevices/assets/142892836/ce677e66-f180-407d-93b3-43bc8c5c1000)
+![Screenshot_2](https://github.com/Vejn99/AppleDevices/assets/142892836/681048d3-9c0a-411f-8abd-fe8a9106ab42)
 
 2. Navigate to the project directory:                                
-![image](https://github.com/Vejn99/AppleDevices/assets/142892836/86aff208-e02a-4af5-88ce-9fb1b1772fbe)
+![Screenshot_1](https://github.com/Vejn99/AppleDevices/assets/142892836/01d4e75b-2a99-484f-84ca-d6506e7c87c6)
 
 3. Open the index.html file in your preferred web browser.
 
